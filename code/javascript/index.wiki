@@ -1,0 +1,11 @@
+%title JavaScript
+
+[[../../index|首页]]
+==JavaScript==
+----
+<center>
+<h2>
+[[base/index|语言基础]]
+</h2>
+</center>
+----

@@ -1,0 +1,56 @@
+snippet /       单行注释
+	{# ${1} #}
+snippet //      多行注释
+	{# ${1}#}
+snippet <       {% ... %}
+	{% ${1} %}
+snippet .       {{ ... }}
+	{{ ${1} }}
+# 代码复用
+snippet im      导入并起别名
+	{% import '${1}' as ${2} %}
+snippet fim     从指定文件导入
+	{% from '${1}' import ${2} as ${3} %}
+snippet in      包含
+	{% include '${1}' %}
+snippet ex      扩展
+	{% extends '${1}' %}
+snippet re      载入片段
+	{% render(${1}) %}
+snippet ma      宏
+	{% macro ${1} %}${2}{% endmacro %}
+snippet bb      单行代码块
+	{% block ${1} %}
+snippet bl      多行代码块
+	{% block ${1} %}${2}{% endblock %}
+snippet ss      单行作用域区间
+	{% set ${1} %}
+snippet se      多行作用域区间
+	{% set ${1} %}${2}{% endset %}
+# 流程控制
+snippet if      if
+	{% if ${1} %}${2}{% endif %}
+snippet fo      for .. in
+	{% for ${1} in ${2} %}${3}{% endfor %}
+snippet fi      应用处理器函数
+	{% filter ${1} %}${2}{% endfilter %}
+# 内建函数
+snippet pa      生成相对链接地址
+	path('${1}'${2})
+snippet ur      生成绝对链接地址
+	url('${1}'${2})
+snippet ass     加载静态资源文件
+	asset('${1}')
+snippet att     获取变量值 [用于带连接符的属性名，如 my-name]
+	attribute(${1})
+snippet blo     重用代码块
+	block('${1}')
+snippet con     从字符串或对象的常量生成一个常量
+	constant('${1}')
+snippet cyc     循环一个数组
+	cycle(${1})
+# 其他
+snippet aes     autoescape
+	{% autoescape${1} %}${2}{% endautoescape %}
+snippet sle     spaceless
+	{% spaceless %}${1}{% endspaceless %}

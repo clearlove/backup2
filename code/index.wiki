@@ -1,0 +1,20 @@
+%title 开发笔记
+
+[[../index|首页]]
+==开发笔记==
+----
+<center>
+<h2>
+[[cpp/index|C++]]
+[[php/index|PHP]]
+[[javascript/index|JS]]
+[[clojure/index|Clo]]
+[[ruby/index|Rb]]
+----
+[[algo/index|算法]]
+[[engineering/index|软件工程]]
+[[front-end/index|前端开发]]
+[[tools/index|辅助工具]]
+</h2>
+</center>
+----
