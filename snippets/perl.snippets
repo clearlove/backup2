@@ -15,35 +15,35 @@ snippet uw      开启警告
 snippet ud      报告详细警告信息
 	use diagnostics;${1}
 # 复合结构
-snippet s       子程序
-	sub ${1:s_name}
+snippet f       子程序
+	sub ${1:f_name}
 	{
-	  ${2}
+	    ${2}
 	}
 # 流程控制
 snippet if      if
 	if (${1}) {
-	  ${2}
+	    ${2}
 	}
 snippet elif    elsif
 	elsif (${1}) {
-	  ${2}
+	    ${2}
 	}
 snippet el      else
 	else {
-	  ${1}
+	    ${1}
 	}
 snippet fo      for
 	for (${1}) {
-	  ${2}
+	    ${2}
 	}
 snippet fe      foreach
 	foreach ${1}(${2}) {
-	  ${3}
+	    ${3}
 	}
 snippet wh      while
 	while (${1}) {
-	  ${2}
+	    ${2}
 	}
 # 单个关键字
 snippet ch      chomp

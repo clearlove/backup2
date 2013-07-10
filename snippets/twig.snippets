@@ -23,9 +23,9 @@ snippet bb      单行代码块
 	{% block ${1} %}
 snippet bl      多行代码块
 	{% block ${1} %}${2}{% endblock %}
-snippet ss      单行作用域区间
+snippet ss      单行变量设置
 	{% set ${1} %}
-snippet se      多行作用域区间
+snippet se      多行变量设置
 	{% set ${1} %}${2}{% endset %}
 # 流程控制
 snippet if      if
@@ -49,6 +49,13 @@ snippet con     从字符串或对象的常量生成一个常量
 	constant('${1}')
 snippet cyc     循环一个数组
 	cycle(${1})
+# 全局变量
+snippet _se     当前模板的引用
+	_self${1}
+snippet _co     当前上下文的引用
+	_context${1}
+snippet _ch     当前字符集设置的引用
+	_charset${1}
 # 其他
 snippet aes     autoescape
 	{% autoescape${1} %}${2}{% endautoescape %}
