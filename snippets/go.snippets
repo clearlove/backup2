@@ -11,22 +11,18 @@ snippet pm      main包
 snippet im      导入单个包
 	import "${1}"
 snippet im.     导入多个包
-	import(
+	import (
 	    "${1}"
 	    "${2}"${3}
 	)
 # 函数、复合结构
 snippet main    主函数
 	func main () {
-
 	    ${1}
-
 	}
 snippet f       函数
 	func ${1:f_name} (${2}) ${3} {
-
 	    ${4}
-
 	}
 snippet ff      匿名函数
 	func (${1}) ${2} {${3}}
@@ -81,7 +77,13 @@ snippet de      删除map中的元素
 snippet con     常量
 	const ${1}
 snippet con.    多个常量
-	const(
+	const (
+	    ${1}
+	)
+snippet v       定义变量
+	var ${1}
+snippet v.      定义多个变量
+	var (
 	    ${1}
 	)
 # 数据类型
@@ -124,11 +126,6 @@ snippet fsp     Sprint
 	fmt.Sprint(${1})
 snippet ffp     Fprintf
 	fmt.Fprintf(${1})
-snippet v       定义单个变量
-	var ${1}
-snippet v.      定义多个变量
-	var(
-	    ${1}
-	)
+# 其他
 snippet .       :=
 	 := ${1}

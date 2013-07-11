@@ -10,64 +10,65 @@ snippet im      导入包
 	import ${1}
 # 类、函数
 snippet cl      类定义
-	class ${1:cl_name} {
-
-	  ${2}
-
-	}  // class
+	class ${1:cl_name}
+	{
+	    ${2}
+	}
 snippet f       方法定义
-	${1:f_name} (${2}) {
-	  ${3}
-	}  // function
+	${1:f_name} (${2})
+	{
+	    ${3}
+	}
 snippet main    主函数
-	public static void main (String[] args) {
-	  ${1}
-	}  // main
+	public static void main (String[] args)
+	{
+	    ${1}
+	}
 # 流程控制
 snippet if      if
 	if (${1}) {
-	  ${2}
+	    ${2}
 	}
 snippet elif    else if
 	else if (${1}) {
-	  ${2}
+	    ${2}
 	}
 snippet el      else
 	else {
-	  ${1}
+	    ${1}
 	}
 snippet wh      while循环
 	while (${1}) {
-	  ${2}
-	}  // while
+	    ${2}
+	}
 snippet fo      for循环
 	for (${1}) {
-	  ${2}
-	}  // for
+	    ${2}
+	}
 snippet sw      switch
 	switch (${1}) {
-	  ${2}
+	    ${2}
 	}
 snippet cs      case
 	case ${1}:
-	  ${2}
+	    ${2}
 snippet def     default
 	default:
-	  ${1}
+	    ${1}
 # 异常处理
 snippet try     try
 	try {
-	  ${1}
+	    ${1}
 	}
 snippet thr     抛出异常
 	throw ${1}
 snippet cat     捕获异常
 	catch (${1}) {
-	  ${2}
+	    ${2}
 	}
 snippet fin     善后处理
 	finally {
-	  ${1}
+	    ${1}
 	}
 # 单个关键字
 snippet pu      公共
