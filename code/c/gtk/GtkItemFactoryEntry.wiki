@@ -1,4 +1,4 @@
-﻿%title 快捷创建菜单GtkItemFactoryEntry
+%title 快捷创建菜单GtkItemFactoryEntry
 
 [[../../../index|首页]] - [[../index|C]] - [[index|GTK+]]
 ==快捷创建菜单GtkItemFactoryEntry==

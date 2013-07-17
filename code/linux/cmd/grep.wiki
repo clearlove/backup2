@@ -1,4 +1,4 @@
-﻿%title grep：搜索字符串
+%title grep：搜索字符串
 
 [[../../../index|首页]] - [[../index|Linux]] - [[index|cmd]]
 ==grep：搜索字符串==

@@ -1,4 +1,4 @@
-﻿%title Cygwin运行GTK+程序出错的解决方法
+%title Cygwin运行GTK+程序出错的解决方法
 
 [[../../../index|首页]] - [[../index|C]] - [[index|GTK+]]
 ==Cygwin运行GTK+程序出错的解决方法==

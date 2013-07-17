@@ -1,9 +1,11 @@
-%title 语言基础
+%title 语法基础
 
-[[../../../index|首页]] - [[../index|Bash]]
-==语言基础==
+[[../../../index|首页]] - [[../../index|Code]] - [[../index|Bash]]
+==语法基础==
 ----
 <center>
-[[base|基础语法]]
+<h2>
+[[review|Bash补课]]
+</h2>
 </center>
 ----

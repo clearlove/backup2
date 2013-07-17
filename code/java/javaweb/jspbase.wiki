@@ -1,4 +1,4 @@
-﻿%title JSP基础
+%title JSP基础
 
 [[../../../index|首页]] - [[../index|Java]] - [[index|Java Web]]
 ==JSP基础==

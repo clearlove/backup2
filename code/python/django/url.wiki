@@ -1,4 +1,4 @@
-﻿%title Urls
+%title Urls
 
 [[../../../index|首页]] - [[../index|Python]] - [[index|Django]]
 ==Urls==

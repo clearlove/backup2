@@ -1,4 +1,4 @@
-﻿%title Make自动编译
+%title Make自动编译
 
 [[../../../index|首页]] - [[../index|Linux]] - [[index|GNU]]
 ==Make自动编译==

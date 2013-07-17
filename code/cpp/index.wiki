@@ -1,6 +1,6 @@
 %title C++
 
-[[../../index|首页]]
+[[../../index|首页]] - [[../index|Code]]
 ==C++==
 ----
 <center>

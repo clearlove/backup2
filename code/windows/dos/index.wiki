@@ -1,4 +1,4 @@
-﻿%title Dos命令行
+%title Dos命令行
 
 [[../../../index|首页]] - [[../index|Windows]]
 ==Dos命令行==

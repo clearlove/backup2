@@ -1,9 +1,9 @@
-%title Composer
+%title Composer包管理器
 
-[[../../../index|首页]] - [[../index|PHP]] - [[index|Tools]]
-==Composer==
+[[../../../index|首页]] - [[../../index|Code]] - [[../index|PHP]] - [[index|Tools]]
+==Composer包管理器==
 ----
-===基本使用===
+===基本用法===
 
 # 获取：`curl -s http://getcomposer.org/installer | php` 或者 `php -r "eval('?>'.file_get_contents('https://getcomposer.org/installer'));"`
 # 安装依赖包：`php composer.phar install`

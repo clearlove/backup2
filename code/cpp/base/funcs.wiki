@@ -1,4 +1,4 @@
-﻿%title 常用库函数
+%title 常用库函数
 
 [[../../../index|首页]] - [[../index|C/C++]] - [[index|Base]]
 ==常用库函数==

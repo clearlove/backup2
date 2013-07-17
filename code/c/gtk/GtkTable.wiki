@@ -1,4 +1,4 @@
-﻿%title 格状容器GtkTable
+%title 格状容器GtkTable
 
 [[../../../index|首页]] - [[../index|C]] - [[index|GTK+]]
 ==格状容器GtkTable==

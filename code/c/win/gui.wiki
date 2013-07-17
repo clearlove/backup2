@@ -1,4 +1,4 @@
-﻿%title 界面设计
+%title 界面设计
 
 [[../../../index|首页]] - [[../index|C/C++]] - [[index|Windows]]
 ==界面设计==

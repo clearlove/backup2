@@ -1,4 +1,4 @@
-﻿%title Dos命令拾遗
+%title Dos命令拾遗
 
 [[../../../index|首页]] - [[../index|Windows]] - [[index|Dos]]
 ==Dos命令拾遗==

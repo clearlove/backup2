@@ -1,4 +1,4 @@
-﻿%title 命令选项
+%title 命令选项
 
 [[../../../index|首页]] - [[../index|Python]] - [[index|Django]]
 ==命令选项==

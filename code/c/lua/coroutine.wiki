@@ -1,4 +1,4 @@
-﻿%title 协同程序
+%title 协同程序
 
 [[../../../index|首页]] - [[../index|C/C++]] - [[index|Lua]]
 ==协同程序==

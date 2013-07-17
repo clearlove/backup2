@@ -1,4 +1,4 @@
-﻿%title Vim使用笔记
+%title Vim使用笔记
 
 [[../../../index|首页]] - [[../index|Linux]]
 ==Vim使用笔记==

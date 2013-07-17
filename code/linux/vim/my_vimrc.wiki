@@ -1,4 +1,4 @@
-﻿%title 我的VIM配置文件
+%title 我的VIM配置文件
 
 [[../../../index|首页]] - [[../index|Linux]] - [[index|Vim]]
 ==我的VIM配置文件==

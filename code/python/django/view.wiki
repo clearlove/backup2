@@ -1,4 +1,4 @@
-﻿%title Views
+%title Views
 
 [[../../../index|首页]] - [[../index|Python]] - [[index|Django]]
 ==Views==

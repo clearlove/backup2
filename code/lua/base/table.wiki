@@ -1,4 +1,4 @@
-﻿%title 表结构
+%title 表结构
 
 [[../../../index|首页]] - [[../index|Lua]] - [[index|Base]]
 ==表结构==

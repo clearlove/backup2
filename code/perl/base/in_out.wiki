@@ -1,4 +1,4 @@
-﻿%title 输入输出
+%title 输入输出
 
 [[../../../index|首页]] - [[../index|Perl]] - [[index|Base]]
 ==输入输出==

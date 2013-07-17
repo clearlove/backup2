@@ -1,4 +1,4 @@
-﻿%title JS的性能与维护
+%title JS的性能与维护
 
 [[../../../index|首页]] - [[../index|HTML5]] - [[index|JavaScript]]
 ==JS的性能与维护==

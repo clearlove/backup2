@@ -1,4 +1,4 @@
-﻿%title 我想为你写歌
+%title 我想为你写歌
 
 [[../../index|首页]] - [[../index|Works]] - [[index|Poems]]
 ==我想为你写歌==

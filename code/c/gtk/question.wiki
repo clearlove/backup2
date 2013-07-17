@@ -1,4 +1,4 @@
-﻿%title GTK+编程常见问题处理
+%title GTK+编程常见问题处理
 
 [[../../../index|首页]] - [[../index|C]] - [[index|GTK+]]
 ==GTK+编程常见问题处理==

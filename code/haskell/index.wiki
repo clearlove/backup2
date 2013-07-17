@@ -1,4 +1,4 @@
-﻿%title Haskell笔记
+%title Haskell笔记
 
 [[../../index|首页]]
 ==Haskell笔记==

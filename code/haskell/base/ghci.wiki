@@ -1,4 +1,4 @@
-﻿%title GHCi交互式解释器
+%title GHCi交互式解释器
 
 [[../../../index|首页]] - [[../index|Haskell]] - [[index|Base]]
 ==GHCi交互式解释器==

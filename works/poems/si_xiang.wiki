@@ -1,4 +1,4 @@
-﻿%title 思乡随感
+%title 思乡随感
 
 [[../../index|首页]] - [[../index|Works]] - [[index|Poems]]
 ==思乡随感==

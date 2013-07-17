@@ -1,4 +1,4 @@
-﻿%title HTTP协议
+%title HTTP协议
 
 [[../../../index|首页]] - [[../index|Java]] - [[index|Java Web]]
 ==HTTP协议==

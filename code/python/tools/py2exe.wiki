@@ -1,4 +1,4 @@
-﻿%title py2exe
+%title py2exe
 
 [[../../../index|首页]] - [[../index|Python]] - [[index|Tools]]
 ==py2exe==

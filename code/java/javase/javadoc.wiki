@@ -1,4 +1,4 @@
-﻿%title 文档注释
+%title 文档注释
 
 [[../../../index|首页]] - [[../index|Java]] - [[index|JavaSE]]
 ==文档注释==

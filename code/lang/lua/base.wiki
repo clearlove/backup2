@@ -1,4 +1,4 @@
-﻿%title 基础语法拾遗
+%title 基础语法拾遗
 
 [[../../../index|首页]] - [[../index|Lang]] - [[index|Lua]]
 ==基础语法拾遗==

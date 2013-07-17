@@ -1,4 +1,4 @@
-﻿%title Vim偶有所得
+%title Vim偶有所得
 
 [[../../../index|首页]] - [[../index|Tools]] - [[index|Vim]]
 ==Vim偶有所得==

@@ -1,9 +1,11 @@
-%title Common Lisp
+%title CommonLisp
 
-[[../../index|首页]]
-==Common Lisp==
+[[../../index|首页]] - [[../index|Code]]
+==CommonLisp==
 ----
-<h3>
-* [[syntax|Common Lisp语法]]
-</h3>
+<center>
+<h2>
+[[base/index|语言基础]]
+</h2>
+</center>
 ----

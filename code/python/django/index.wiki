@@ -1,4 +1,4 @@
-﻿%title Django Framework
+%title Django Framework
 
 [[../../../index|首页]] - [[../index|Python]]
 ==Django Framework==

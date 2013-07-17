@@ -1,4 +1,4 @@
-﻿%title 数字相关问题
+%title 数字相关问题
 
 [[../../../index|首页]] - [[../index|C]] - [[index|Subject]]
 ==数字相关问题==

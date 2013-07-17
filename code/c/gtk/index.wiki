@@ -1,4 +1,4 @@
-﻿%title GTK+程序设计
+%title GTK+程序设计
 
 [[../../../index|首页]] - [[../index|C]]
 ==GTK+程序设计==

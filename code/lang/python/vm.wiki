@@ -1,4 +1,4 @@
-﻿%title Python虚拟机
+%title Python虚拟机
 
 [[../../../index|首页]] - [[../index|Lang]] - [[index|Python]]
 ==Python虚拟机==

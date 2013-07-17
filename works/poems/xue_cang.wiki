@@ -1,4 +1,4 @@
-﻿%title 雪藏
+%title 雪藏
 
 [[../../index|首页]] - [[../index|Works]] - [[index|Poems]]
 ==雪藏==

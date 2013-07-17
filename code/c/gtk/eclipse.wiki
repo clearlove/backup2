@@ -1,4 +1,4 @@
-﻿%title 使用Eclipse进行GTK+编程
+%title 使用Eclipse进行GTK+编程
 
 [[../../../index|首页]] - [[../index|C]] - [[index|GTK+]]
 ==使用Eclipse进行GTK+编程==

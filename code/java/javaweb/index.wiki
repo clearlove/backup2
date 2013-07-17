@@ -1,4 +1,4 @@
-﻿%title Java Web
+%title Java Web
 
 [[../../../index|首页]] - [[../index|Java]]
 ==Java Web==

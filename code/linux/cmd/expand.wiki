@@ -1,4 +1,4 @@
-﻿%title expand：处理制表符
+%title expand：处理制表符
 
 [[../../../index|首页]] - [[../index|Linux]] - [[index|cmd]]
 ==expand：处理制表符==

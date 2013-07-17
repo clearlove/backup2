@@ -1,4 +1,4 @@
-﻿%title Gas汇编必备工具集
+%title Gas汇编必备工具集
 
 [[../../../index|首页]] - [[../index|Asm]] - [[index|Gas]]
 ==Gas汇编必备工具集==

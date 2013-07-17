@@ -1,4 +1,4 @@
-﻿%title find：查找文件
+%title find：查找文件
 
 [[../../../index|首页]] - [[../index|Linux]] - [[index|cmd]]
 ==find：查找文件==

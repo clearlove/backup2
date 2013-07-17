@@ -1,4 +1,4 @@
-﻿%title Vimwiki使用入门
+%title Vimwiki使用入门
 
 [[../../../index|首页]] - [[../index|Linux]] - [[index|Vim]]
 ==Vimwiki使用入门==

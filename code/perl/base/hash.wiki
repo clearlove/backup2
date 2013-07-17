@@ -1,4 +1,4 @@
-﻿%title Hash（哈希）
+%title Hash（哈希）
 
 [[../../../index|首页]] - [[../index|Perl]] - [[index|Base]]
 ==Hash（哈希）==

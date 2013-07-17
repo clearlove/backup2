@@ -1,4 +1,4 @@
-﻿%title Eclipse & MyEclipse
+%title Eclipse & MyEclipse
 
 [[../../../index|首页]] - [[../index|Java]] - [[index|Tools]]
 ==Eclipse & MyEclipse==

@@ -1,4 +1,4 @@
-﻿%title ThinkPHP使用基础
+%title ThinkPHP使用基础
 
 [[../../index|首页]] - [[../index|PHP]] - [[index|ThinkPHP]]
 ==ThinkPHP使用基础==

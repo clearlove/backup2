@@ -1,4 +1,4 @@
-﻿%title 使用Mongoose和Lua搭建简易的Web环境
+%title 使用Mongoose和Lua搭建简易的Web环境
 
 [[../../../index|首页]] - [[../index|C/C++]] - [[index|Lua]]
 ==使用Mongoose和Lua搭建简易的Web环境==

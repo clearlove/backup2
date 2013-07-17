@@ -1,4 +1,4 @@
-﻿%title main方法
+%title main方法
 
 [[../../../index|首页]] - [[../index|Java]] - [[index|JavaSE]]
 ==main方法==

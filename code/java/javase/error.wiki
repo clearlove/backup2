@@ -1,4 +1,4 @@
-﻿%title Java易错点
+%title Java易错点
 
 [[../../../index|首页]] - [[../index|Java]] - [[index|JavaSE]]
 ==Java易错点==

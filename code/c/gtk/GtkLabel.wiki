@@ -1,4 +1,4 @@
-﻿%title 标签控件GtkLabel
+%title 标签控件GtkLabel
 
 [[../../../index|首页]] - [[../index|C]] - [[index|GTK+]]
 ==标签控件GtkLabel==

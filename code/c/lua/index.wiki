@@ -1,4 +1,4 @@
-﻿%title Lua脚本语言
+%title Lua脚本语言
 
 [[../../../index|首页]] - [[../index|C/C++]]
 ==Lua脚本语言==

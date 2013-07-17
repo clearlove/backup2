@@ -1,4 +1,4 @@
-﻿%title sort：文件排序
+%title sort：文件排序
 
 [[../../../index|首页]] - [[../index|Linux]] - [[index|cmd]]
 ==sort：文件排序==

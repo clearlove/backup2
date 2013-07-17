@@ -1,4 +1,4 @@
-﻿%title Dos基础
+%title Dos基础
 
 [[../../../index|首页]] - [[../index|Windows]] - [[index|Dos]]
 ==Dos基础==

@@ -1,4 +1,4 @@
-﻿%title 一个直角三角形的求解
+%title 一个直角三角形的求解
 
 [[../../../index|首页]] - [[../index|Haskell]] - [[index|Taste]]
 ==一个直角三角形的求解==

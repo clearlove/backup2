@@ -1,4 +1,4 @@
-﻿%title GCC编译器
+%title GCC编译器
 
 [[../../../index|首页]] - [[../index|Linux]] - [[index|GNU]]
 ==GCC编译器==

@@ -1,4 +1,4 @@
-﻿%title 在Vimwiki中使用SyntaxHighlighter
+%title 在Vimwiki中使用SyntaxHighlighter
 
 [[../../../index|首页]] - [[../index|Linux]] - [[index|Vim]]
 ==在Vimwiki中使用SyntaxHighlighter==

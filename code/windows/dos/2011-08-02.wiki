@@ -1,4 +1,4 @@
-﻿%title Dos问题拾遗
+%title Dos问题拾遗
 
 [[../../../index|首页]] - [[../index|Windows]] - [[index|Dos]]
 ==Dos问题拾遗==

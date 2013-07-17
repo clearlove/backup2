@@ -1,4 +1,4 @@
-﻿%title Haskell常用内置函数
+%title Haskell常用内置函数
 
 [[../../../index|首页]] - [[../index|Haskell]] - [[index|Base]]
 ==Haskell常用内置函数==

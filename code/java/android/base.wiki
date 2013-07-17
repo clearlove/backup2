@@ -1,4 +1,4 @@
-﻿%title Android环境配置及目录结构
+%title Android环境配置及目录结构
 
 [[../../../index|首页]] - [[../index|Java]] - [[index|Android]]
 ==Android环境配置及目录结构==

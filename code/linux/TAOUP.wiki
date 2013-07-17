@@ -1,4 +1,4 @@
-﻿%title 《Unix编程艺术》大师语录
+%title 《Unix编程艺术》大师语录
 
 [[../../index|首页]] - [[index|Linux]]
 ==《Unix编程艺术》大师语录==

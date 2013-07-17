@@ -1,4 +1,4 @@
-﻿%title Haskell基础语法
+%title Haskell基础语法
 
 [[../../../index|首页]] - [[../index|Haskell]] - [[index|Base]]
 ==Haskell基础语法==

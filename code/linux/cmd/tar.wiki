@@ -1,4 +1,4 @@
-﻿%title tar：压缩、解压缩
+%title tar：压缩、解压缩
 
 [[../../../index|首页]] - [[../index|Linux]] - [[index|cmd]]
 ==tar：压缩、解压缩==

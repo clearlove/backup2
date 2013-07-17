@@ -1,4 +1,4 @@
-﻿%title 硬件基础
+%title 硬件基础
 
 [[../../../index|首页]] - [[../index|Asm]] - [[index|Base]]
 ==硬件基础==

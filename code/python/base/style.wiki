@@ -1,4 +1,4 @@
-﻿%title 编码规范
+%title 编码规范
 
 [[../../../index|首页]] - [[../index|Python]] - [[index|Base]]
 ==编码规范==

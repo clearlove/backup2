@@ -1,4 +1,4 @@
-﻿%title 诗作集锦
+%title 诗作集锦
 
 [[../../index|首页]] - [[../index|Works]]
 ==诗作集锦==

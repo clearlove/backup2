@@ -1,4 +1,4 @@
-﻿%title 编程体会
+%title 编程体会
 
 [[../../../index|首页]] - [[../index|Haskell]]
 ==编程体会==

@@ -1,4 +1,4 @@
-﻿%title 状态栏GtkStatusBar
+%title 状态栏GtkStatusBar
 
 [[../../../index|首页]] - [[../index|C]] - [[index|GTK+]]
 ==状态栏GtkStatusBar==

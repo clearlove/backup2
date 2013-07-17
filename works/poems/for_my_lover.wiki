@@ -1,4 +1,4 @@
-﻿%title The poem for my lover
+%title The poem for my lover
 
 [[../../index|首页]] - [[../index|Works]] - [[index|Poems]]
 ==The poem for my lover==

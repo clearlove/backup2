@@ -1,4 +1,4 @@
-﻿%title GTK+程序设计入门
+%title GTK+程序设计入门
 
 [[../../../index|首页]] - [[../index|C]] - [[index|GTK+]]
 ==GTK+程序设计入门==

@@ -1,9 +1,11 @@
-%title Web开发
+%title Web
 
-[[../../index|首页]]
-==Web开发==
+[[../../index|首页]] - [[../index|Code]]
+==Web==
 ----
-<h3>
-* [[html5|HTML5学习笔记]]
-</h3>
+<center>
+<h2>
+[[base/index|基础知识]]
+</h2>
+</center>
 ----

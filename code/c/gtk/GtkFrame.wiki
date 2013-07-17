@@ -1,4 +1,4 @@
-﻿%title 框架控件GtkFrame
+%title 框架控件GtkFrame
 
 [[../../../index|首页]] - [[../index|C]] - [[index|GTK+]]
 ==框架控件GtkFrame==

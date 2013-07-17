@@ -1,4 +1,4 @@
-﻿%title GDB调试器
+%title GDB调试器
 
 [[../../../index|首页]] - [[../index|Linux]] - [[index|GNU]]
 ==GDB调试器==

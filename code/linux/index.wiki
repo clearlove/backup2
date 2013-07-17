@@ -1,4 +1,4 @@
-﻿%title Linux笔记
+%title Linux笔记
 
 [[../../index|首页]]
 ==Linux笔记==

@@ -1,4 +1,4 @@
-﻿%title Automake自动化构建工具
+%title Automake自动化构建工具
 
 [[../../../index|首页]] - [[../index|Linux]] - [[index|GNU]]
 ==Automake自动化构建工具==

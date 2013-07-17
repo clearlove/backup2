@@ -1,4 +1,4 @@
-﻿%title 按钮盒GtkButtonBox
+%title 按钮盒GtkButtonBox
 
 [[../../../index|首页]] - [[../index|C]] - [[index|GTK+]]
 ==按钮盒GtkButtonBox==

@@ -1,4 +1,4 @@
-﻿%title Models
+%title Models
 
 [[../../../index|首页]] - [[../index|Python]] - [[index|Django]]
 ==Models==

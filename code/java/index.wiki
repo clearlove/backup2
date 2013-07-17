@@ -1,4 +1,4 @@
-﻿%title Java笔记
+%title Java笔记
 
 [[../../index|首页]]
 ==Java笔记==

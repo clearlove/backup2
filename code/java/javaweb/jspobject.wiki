@@ -1,4 +1,4 @@
-﻿%title JSP内置对象
+%title JSP内置对象
 
 [[../../../index|首页]] - [[../index|Java]] - [[index|Java Web]]
 ==JSP内置对象==

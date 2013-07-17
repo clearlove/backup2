@@ -1,4 +1,4 @@
-﻿%title Windows
+%title Windows
 
 [[../../index|首页]]
 ==Windows==

@@ -1,4 +1,4 @@
-﻿%title Java基础拾遗
+%title Java基础拾遗
 
 [[../../../index|首页]] - [[../index|Java]] - [[index|JavaSE]]
 ==Java基础拾遗==

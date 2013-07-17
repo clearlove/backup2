@@ -1,4 +1,4 @@
-﻿%title GHC编译器
+%title GHC编译器
 
 [[../../../index|首页]] - [[../index|Haskell]] - [[index|Base]]
 ==GHC编译器==

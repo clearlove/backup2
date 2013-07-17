@@ -1,4 +1,4 @@
-﻿%title 盒状容器GtkBox
+%title 盒状容器GtkBox
 
 [[../../../index|首页]] - [[../index|C]] - [[index|GTK+]]
 ==盒状容器GtkBox==

@@ -1,4 +1,4 @@
-﻿%title 浮动窗口GtkHandleBox
+%title 浮动窗口GtkHandleBox
 
 [[../../../index|首页]] - [[../index|C]] - [[index|GTK+]]
 ==浮动窗口GtkHandleBox==

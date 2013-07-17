@@ -1,4 +1,4 @@
-﻿%title 寻址方式
+%title 寻址方式
 
 [[../../../index|首页]] - [[../index|Asm]] - [[index|Base]]
 ==寻址方式==

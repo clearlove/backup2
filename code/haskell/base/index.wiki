@@ -1,4 +1,4 @@
-﻿%title 语言基础
+%title 语言基础
 
 [[../../../index|首页]] - [[../index|Haskell]]
 ==语言基础==

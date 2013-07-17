@@ -1,4 +1,4 @@
-﻿%title JavaScript的对象编程
+%title JavaScript的对象编程
 
 [[../../../index|首页]] - [[../index|HTML5]] - [[index|JavaScript]]
 ==JavaScript的对象编程==

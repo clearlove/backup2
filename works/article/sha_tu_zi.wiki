@@ -1,4 +1,4 @@
-﻿%title 掉陷阱的傻兔子
+%title 掉陷阱的傻兔子
 
 [[../../index|首页]] - [[../index|Works]] - [[index|Article]]
 ==掉陷阱的傻兔子==

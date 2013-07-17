@@ -1,4 +1,4 @@
-﻿%title GNU系列开发工具
+%title GNU系列开发工具
 
 [[../../../index|首页]] - [[../index|Linux]]
 ==GNU系列开发工具==

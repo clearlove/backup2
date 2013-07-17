@@ -1,4 +1,4 @@
-﻿%title Bash编程基础3
+%title Bash编程基础3
 
 [[../../../index|首页]] - [[../index|Linux]] - [[index|Bash]]
 ==Bash编程基础3==

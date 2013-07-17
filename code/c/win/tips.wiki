@@ -1,4 +1,4 @@
-﻿%title 注意事项
+%title 注意事项
 
 [[../../../index|首页]] - [[../index|C/C++]] - [[index|Windows]]
 ==注意事项==

@@ -1,4 +1,4 @@
-﻿%title Windows程序设计
+%title Windows程序设计
 
 [[../../../index|首页]] - [[../index|C/C++]]
 ==Windows程序设计==

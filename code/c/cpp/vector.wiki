@@ -1,4 +1,4 @@
-﻿%title vector标准库
+%title vector标准库
 
 [[../../../index|首页]] - [[../index|C/C++]] - [[index|C++]]
 ==vector标准库==

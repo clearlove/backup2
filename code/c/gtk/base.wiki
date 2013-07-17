@@ -1,4 +1,4 @@
-﻿%title GTK+基本组件解说
+%title GTK+基本组件解说
 
 [[../../../index|首页]] - [[../index|C]] - [[index|GTK+]]
 ==GTK+基本组件解说==

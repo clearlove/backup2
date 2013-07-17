@@ -1,4 +1,4 @@
-﻿%title Templates
+%title Templates
 
 [[../../../index|首页]] - [[../index|Python]] - [[index|Django]]
 ==Templates==

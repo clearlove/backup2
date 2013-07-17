@@ -1,6 +1,6 @@
 %title Git常用命令
 
-[[../../../index|首页]] - [[../index|Tools]] - [[index|Git]]
+[[../../../index|首页]] - [[../../index|Code]] - [[../index|Tools]] - [[index|Git]]
 ==Git常用命令==
 ----
 ===全局相关===

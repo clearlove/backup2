@@ -1,4 +1,4 @@
-﻿%title Linux常用命令
+%title Linux常用命令
 
 [[../../../index|首页]] - [[../index|Linux]]
 ==Linux常用命令==

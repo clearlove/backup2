@@ -1,4 +1,4 @@
-﻿%title Bash编程
+%title Bash编程
 
 [[../../../index|首页]] - [[../index|Linux]]
 ==Bash编程==

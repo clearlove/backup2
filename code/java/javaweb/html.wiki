@@ -1,4 +1,4 @@
-﻿%title HTML4拾遗
+%title HTML4拾遗
 
 [[../../../index|首页]] - [[../index|Java]] - [[index|Java Web]]
 ==HTML4拾遗==

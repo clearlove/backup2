@@ -1,4 +1,4 @@
-﻿%title awk：文件处理
+%title awk：文件处理
 
 [[../../../index|首页]] - [[../index|Linux]] - [[index|cmd]]
 ==awk：文件处理==

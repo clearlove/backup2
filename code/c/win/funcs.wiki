@@ -1,4 +1,4 @@
-﻿%title 常用函数
+%title 常用函数
 
 [[../../../index|首页]] - [[../index|C/C++]] - [[index|Windows]]
 ==常用函数==

@@ -1,4 +1,4 @@
-﻿%title JavaSE
+%title JavaSE
 
 [[../../../index|首页]] - [[../index|Java]]
 ==JavaSE==

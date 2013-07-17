@@ -1,4 +1,4 @@
-﻿%title 使用Vimwiki的建议
+%title 使用Vimwiki的建议
 
 [[../../../index|首页]] - [[../index|Linux]] - [[index|Vim]]
 ==使用Vimwiki的建议==

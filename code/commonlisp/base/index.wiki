@@ -1,11 +1,11 @@
 %title 语言基础
 
-[[../../../index|首页]] - [[../index|Common Lisp]]
+[[../../../index|首页]] - [[../../index|Code]] - [[../index|CommonLisp]]
 ==语言基础==
 ----
 <center>
-[[repl|REPL交互环境]]
-----
-[[base|基础语法拾遗]]
+<h2>
+[[base|基础语法]]
+</h2>
 </center>
 ----

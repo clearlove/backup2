@@ -1,4 +1,4 @@
-﻿%title Vim命令拾遗
+%title Vim命令拾遗
 
 [[../../../index|首页]] - [[../index|Linux]] - [[index|Vim]]
 ==Vim命令拾遗==

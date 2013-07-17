@@ -1,4 +1,4 @@
-﻿%title 工具栏GtkToolBar
+%title 工具栏GtkToolBar
 
 [[../../../index|首页]] - [[../index|C]] - [[index|GTK+]]
 ==工具栏GtkToolBar==

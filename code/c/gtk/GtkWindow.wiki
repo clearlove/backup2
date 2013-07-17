@@ -1,4 +1,4 @@
-﻿%title 窗口控件GtkWindow
+%title 窗口控件GtkWindow
 
 [[../../../index|首页]] - [[../index|C]] - [[index|GTK+]]
 ==窗口控件GtkWindow==

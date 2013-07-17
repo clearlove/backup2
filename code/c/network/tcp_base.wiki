@@ -1,4 +1,4 @@
-﻿%title 基本的TCP套接字编程
+%title 基本的TCP套接字编程
 
 [[../../../index|首页]] - [[../index|C]] - [[index|Network]]
 ==基本的TCP套接字编程==
