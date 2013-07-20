@@ -5,11 +5,11 @@ snippet //      多行注释
 snippet -       分隔注释
 	// -------------------------------${1}
 # 文档化注释
-snippet d/      /// xxx
+snippet d/      /// ...
 	/// ${1}
-snippet d*      /** xxx */
+snippet d*      /** ... */
 	/** ${1} */
-snippet d+      /++ xxx +/
+snippet d+      /++ ... +/
 	/++ ${1} +/
 # 包、模块
 snippet mo      指定模块
@@ -28,9 +28,19 @@ snippet int     接口定义
 	    ${2}
 	}
 snippet te      模板定义
-	template ${1:tem_name} (${2})
+	template ${1:te_name} (${2})
 	{
 	    ${3}
+	}
+snippet tec     类模板
+	class ${1:te_name} (${2})
+	{
+	    ${3}
+	}
+snippet tef     函数模板
+	${1:te_name} (${2}) (${3})
+	{
+	    ${4}
 	}
 # 函数、数据结构
 snippet main    主函数
